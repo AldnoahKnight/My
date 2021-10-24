@@ -1,4 +1,4 @@
- Date & UTC Time,Sea Level,Water Temperature,Air Temperature,Barometric Pressure,Residuals,Adjusted Residuals,Wind Direction,Wind Gust,Wind Speed,Marshall Islands
+ Date_Time,Sea_Level,Water_Temperature,Air_Temperature,Barometric_Pressure,Residuals,Adjusted_Residuals,Wind_Direction,Wind_Gust,Wind_Speed,Marshall_Islands
 01-Jan-2017 00:00, 0.460,  28.6,  30.4, 1006.6, 0.067, 0.004,   66,   9.3,   3.8
 01-Jan-2017 01:00, 0.565,  28.7,  29.9, 1005.9, 0.050,-0.016,   54,   9.6,   4.8
 01-Jan-2017 02:00, 0.823,  28.7,  30.4, 1005.0, 0.032,-0.042,   59,   9.4,   3.7
